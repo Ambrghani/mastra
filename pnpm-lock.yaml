@@ -80,7 +80,7 @@ importers:
         version: 22.13.4
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -129,7 +129,7 @@ importers:
         version: 22.13.4
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -200,7 +200,7 @@ importers:
         version: 22.13.4
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -282,7 +282,7 @@ importers:
         version: link:../../packages/core
       ai:
         specifier: latest
-        version: 4.1.44(react@19.0.0)(zod@3.24.2)
+        version: 4.1.45(react@19.0.0)(zod@3.24.2)
       zod:
         specifier: ^3.24.0
         version: 3.24.2
@@ -352,7 +352,7 @@ importers:
         version: link:../../../../packages/core
       ai:
         specifier: latest
-        version: 4.1.44(react@19.0.0)(zod@3.24.2)
+        version: 4.1.45(react@19.0.0)(zod@3.24.2)
       zod:
         specifier: ^3.24.1
         version: 3.24.2
@@ -660,7 +660,7 @@ importers:
         version: link:../../../../packages/rag
       ai:
         specifier: latest
-        version: 4.1.44(react@19.0.0)(zod@3.24.2)
+        version: 4.1.45(react@19.0.0)(zod@3.24.2)
     devDependencies:
       dotenv:
         specifier: ^16.4.7
@@ -703,7 +703,7 @@ importers:
         version: link:../../../../packages/rag
       ai:
         specifier: latest
-        version: 4.1.44(react@19.0.0)(zod@3.24.2)
+        version: 4.1.45(react@19.0.0)(zod@3.24.2)
     devDependencies:
       dotenv:
         specifier: ^16.4.7
@@ -722,7 +722,7 @@ importers:
         version: link:../../../../packages/rag
       ai:
         specifier: latest
-        version: 4.1.44(react@19.0.0)(zod@3.24.2)
+        version: 4.1.45(react@19.0.0)(zod@3.24.2)
     devDependencies:
       dotenv:
         specifier: ^16.4.7
@@ -741,7 +741,7 @@ importers:
         version: link:../../../../packages/rag
       ai:
         specifier: latest
-        version: 4.1.44(react@19.0.0)(zod@3.24.2)
+        version: 4.1.45(react@19.0.0)(zod@3.24.2)
       zod:
         specifier: ^3.24.1
         version: 3.24.2
@@ -756,7 +756,7 @@ importers:
         version: link:../../../../packages/rag
       ai:
         specifier: latest
-        version: 4.1.44(react@19.0.0)(zod@3.24.2)
+        version: 4.1.45(react@19.0.0)(zod@3.24.2)
 
   examples/basics/rag/embed-text-chunk:
     dependencies:
@@ -768,7 +768,7 @@ importers:
         version: link:../../../../packages/rag
       ai:
         specifier: latest
-        version: 4.1.44(react@19.0.0)(zod@3.24.2)
+        version: 4.1.45(react@19.0.0)(zod@3.24.2)
 
   examples/basics/rag/embed-text-with-cohere:
     dependencies:
@@ -780,7 +780,7 @@ importers:
         version: link:../../../../packages/rag
       ai:
         specifier: latest
-        version: 4.1.44(react@19.0.0)(zod@3.24.2)
+        version: 4.1.45(react@19.0.0)(zod@3.24.2)
 
   examples/basics/rag/filter-rag:
     dependencies:
@@ -795,7 +795,7 @@ importers:
         version: link:../../../../packages/rag
       ai:
         specifier: latest
-        version: 4.1.44(react@19.0.0)(zod@3.24.2)
+        version: 4.1.45(react@19.0.0)(zod@3.24.2)
     devDependencies:
       dotenv:
         specifier: ^16.4.7
@@ -817,7 +817,7 @@ importers:
         version: link:../../../../packages/rag
       ai:
         specifier: latest
-        version: 4.1.44(react@19.0.0)(zod@3.24.2)
+        version: 4.1.45(react@19.0.0)(zod@3.24.2)
     devDependencies:
       dotenv:
         specifier: ^16.4.7
@@ -836,7 +836,7 @@ importers:
         version: link:../../../../packages/rag
       ai:
         specifier: latest
-        version: 4.1.44(react@19.0.0)(zod@3.24.2)
+        version: 4.1.45(react@19.0.0)(zod@3.24.2)
     devDependencies:
       dotenv:
         specifier: ^16.4.7
@@ -855,7 +855,7 @@ importers:
         version: link:../../../../packages/rag
       ai:
         specifier: latest
-        version: 4.1.44(react@19.0.0)(zod@3.24.2)
+        version: 4.1.45(react@19.0.0)(zod@3.24.2)
 
   examples/basics/rag/insert-embedding-in-pinecone:
     dependencies:
@@ -870,7 +870,7 @@ importers:
         version: link:../../../../packages/rag
       ai:
         specifier: latest
-        version: 4.1.44(react@19.0.0)(zod@3.24.2)
+        version: 4.1.45(react@19.0.0)(zod@3.24.2)
 
   examples/basics/rag/metadata-extraction:
     dependencies:
@@ -895,7 +895,7 @@ importers:
         version: link:../../../../packages/rag
       ai:
         specifier: latest
-        version: 4.1.44(react@19.0.0)(zod@3.24.2)
+        version: 4.1.45(react@19.0.0)(zod@3.24.2)
     devDependencies:
       dotenv:
         specifier: ^16.4.7
@@ -914,7 +914,7 @@ importers:
         version: link:../../../../packages/rag
       ai:
         specifier: latest
-        version: 4.1.44(react@19.0.0)(zod@3.24.2)
+        version: 4.1.45(react@19.0.0)(zod@3.24.2)
     devDependencies:
       dotenv:
         specifier: ^16.4.7
@@ -933,7 +933,7 @@ importers:
         version: link:../../../../packages/rag
       ai:
         specifier: latest
-        version: 4.1.44(react@19.0.0)(zod@3.24.2)
+        version: 4.1.45(react@19.0.0)(zod@3.24.2)
 
   examples/basics/workflows/calling-agent-from-workflow:
     dependencies:
@@ -1011,7 +1011,7 @@ importers:
         version: link:../../packages/core
       ai:
         specifier: latest
-        version: 4.1.44(react@19.0.0)(zod@3.24.2)
+        version: 4.1.45(react@19.0.0)(zod@3.24.2)
       zod:
         specifier: ^3.24.0
         version: 3.24.2
@@ -1248,7 +1248,7 @@ importers:
         version: 0.10.0(utf-8-validate@6.0.5)
       ai:
         specifier: latest
-        version: 4.1.44(react@19.0.0-rc-45804af1-20241021)(zod@3.24.2)
+        version: 4.1.45(react@19.0.0-rc-45804af1-20241021)(zod@3.24.2)
       bcrypt-ts:
         specifier: ^5.0.2
         version: 5.0.3
@@ -1545,7 +1545,7 @@ importers:
         version: link:../../packages/memory
       ai:
         specifier: latest
-        version: 4.1.44(react@19.0.0)(zod@3.24.2)
+        version: 4.1.45(react@19.0.0)(zod@3.24.2)
       chalk:
         specifier: ^5.3.0
         version: 5.4.1
@@ -1740,7 +1740,7 @@ importers:
         version: link:../../packages/core
       ai:
         specifier: latest
-        version: 4.1.44(react@19.0.0)(zod@3.24.2)
+        version: 4.1.45(react@19.0.0)(zod@3.24.2)
     devDependencies:
       '@types/node':
         specifier: ^22.10.1
@@ -1823,7 +1823,7 @@ importers:
         version: 1.1.2(@types/react@18.3.18)(react@19.0.0-rc-66855b96-20241106)
       ai:
         specifier: latest
-        version: 4.1.44(react@19.0.0-rc-66855b96-20241106)(zod@3.24.2)
+        version: 4.1.45(react@19.0.0-rc-66855b96-20241106)(zod@3.24.2)
       class-variance-authority:
         specifier: ^0.7.1
         version: 0.7.1
@@ -1938,7 +1938,7 @@ importers:
         version: link:../../packages/core
       ai:
         specifier: latest
-        version: 4.1.44(react@19.0.0)(zod@3.24.2)
+        version: 4.1.45(react@19.0.0)(zod@3.24.2)
     devDependencies:
       '@types/node':
         specifier: ^22.10.5
@@ -2076,7 +2076,7 @@ importers:
         version: 7.50.0(@types/node@22.13.4)
       '@rollup/plugin-image':
         specifier: ^3.0.3
-        version: 3.0.3(rollup@4.34.8)
+        version: 3.0.3(rollup@3.29.5)
       '@size-limit/preset-small-lib':
         specifier: ^11.1.4
         version: 11.2.0(size-limit@11.2.0)
@@ -2106,7 +2106,7 @@ importers:
         version: 29.2.5(@babel/core@7.26.9)(@jest/transform@29.7.0)(@jest/types@29.6.3)(babel-jest@29.7.0(@babel/core@7.26.9))(jest@29.7.0(@types/node@22.13.4)(babel-plugin-macros@3.1.0)(ts-node@10.9.2(@swc/core@1.10.18(@swc/helpers@0.5.15))(@types/node@22.13.4)(typescript@5.7.3)))(typescript@5.7.3)
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -2137,7 +2137,7 @@ importers:
         version: 7.50.0(@types/node@22.13.4)
       '@rollup/plugin-image':
         specifier: ^3.0.3
-        version: 3.0.3(rollup@3.29.5)
+        version: 3.0.3(rollup@4.34.8)
       '@size-limit/preset-small-lib':
         specifier: ^11.1.4
         version: 11.2.0(size-limit@11.2.0)
@@ -2167,7 +2167,7 @@ importers:
         version: 29.2.5(@babel/core@7.26.9)(@jest/transform@29.7.0)(@jest/types@29.6.3)(babel-jest@29.7.0(@babel/core@7.26.9))(jest@29.7.0(@types/node@22.13.4)(babel-plugin-macros@3.1.0)(ts-node@10.9.2(@swc/core@1.10.18(@swc/helpers@0.5.15))(@types/node@22.13.4)(typescript@5.7.3)))(typescript@5.7.3)
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -2228,7 +2228,7 @@ importers:
         version: 29.2.5(@babel/core@7.26.9)(@jest/transform@29.7.0)(@jest/types@29.6.3)(babel-jest@29.7.0(@babel/core@7.26.9))(jest@29.7.0(@types/node@22.13.4)(babel-plugin-macros@3.1.0)(ts-node@10.9.2(@swc/core@1.10.18(@swc/helpers@0.5.15))(@types/node@22.13.4)(typescript@5.7.3)))(typescript@5.7.3)
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -2286,7 +2286,7 @@ importers:
         version: 29.2.5(@babel/core@7.26.9)(@jest/transform@29.7.0)(@jest/types@29.6.3)(babel-jest@29.7.0(@babel/core@7.26.9))(jest@29.7.0(@types/node@22.13.4)(babel-plugin-macros@3.1.0)(ts-node@10.9.2(@swc/core@1.10.18(@swc/helpers@0.5.15))(@types/node@22.13.4)(typescript@5.7.3)))(typescript@5.7.3)
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -2341,7 +2341,7 @@ importers:
         version: 29.2.5(@babel/core@7.26.9)(@jest/transform@29.7.0)(@jest/types@29.6.3)(babel-jest@29.7.0(@babel/core@7.26.9))(jest@29.7.0(@types/node@22.13.4)(babel-plugin-macros@3.1.0)(ts-node@10.9.2(@swc/core@1.10.18(@swc/helpers@0.5.15))(@types/node@22.13.4)(typescript@5.7.3)))(typescript@5.7.3)
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -2480,7 +2480,7 @@ importers:
         version: 4.34.8
       tsup:
         specifier: ^8.3.5
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       type-fest:
         specifier: ^4.30.0
         version: 4.35.0
@@ -2782,7 +2782,7 @@ importers:
         version: 11.2.0
       tsup:
         specifier: ^8.3.6
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -2836,8 +2836,8 @@ importers:
         specifier: ^22.13.1
         version: 22.13.4
       esbuild:
-        specifier: ^0.24.2
-        version: 0.24.2
+        specifier: ^0.25.0
+        version: 0.25.0
       eslint:
         specifier: ^9.20.1
         version: 9.20.1(jiti@2.4.2)
@@ -2849,7 +2849,7 @@ importers:
         version: 4.34.8
       rollup-plugin-esbuild:
         specifier: ^6.1.1
-        version: 6.2.0(esbuild@0.24.2)(rollup@4.34.8)
+        version: 6.2.0(esbuild@0.25.0)(rollup@4.34.8)
       rollup-plugin-node-externals:
         specifier: ^8.0.0
         version: 8.0.0(rollup@4.34.8)
@@ -2896,8 +2896,8 @@ importers:
         specifier: ^16.4.7
         version: 16.4.7
       esbuild:
-        specifier: ^0.24.2
-        version: 0.24.2
+        specifier: ^0.25.0
+        version: 0.25.0
       fs-extra:
         specifier: ^11.2.0
         version: 11.3.0
@@ -2909,7 +2909,7 @@ importers:
         version: 4.34.8
       rollup-plugin-esbuild:
         specifier: ^6.1.1
-        version: 6.2.0(esbuild@0.24.2)(rollup@4.34.8)
+        version: 6.2.0(esbuild@0.25.0)(rollup@4.34.8)
       rollup-plugin-node-externals:
         specifier: ^8.0.0
         version: 8.0.0(rollup@4.34.8)
@@ -2958,7 +2958,7 @@ importers:
         version: 2.2.2
       tsup:
         specifier: ^8.3.6
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       type-fest:
         specifier: ^4.30.0
         version: 4.35.0
@@ -3031,7 +3031,7 @@ importers:
         version: 9.20.1(jiti@2.4.2)
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -3059,7 +3059,7 @@ importers:
         version: 9.20.1(jiti@2.4.2)
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -3099,7 +3099,7 @@ importers:
         version: 9.20.1(jiti@2.4.2)
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -3148,7 +3148,7 @@ importers:
         version: 9.20.1(jiti@2.4.2)
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -3252,7 +3252,7 @@ importers:
         version: 9.20.1(jiti@2.4.2)
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -3280,7 +3280,7 @@ importers:
         version: 22.13.4
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -3308,7 +3308,7 @@ importers:
         version: 22.13.4
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -3336,7 +3336,7 @@ importers:
         version: 22.13.4
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -3364,7 +3364,7 @@ importers:
         version: 22.13.4
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -3392,7 +3392,7 @@ importers:
         version: 22.13.4
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -3420,7 +3420,7 @@ importers:
         version: 22.13.4
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -3448,7 +3448,7 @@ importers:
         version: 22.13.4
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -3473,7 +3473,7 @@ importers:
         version: 22.13.4
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -3501,7 +3501,7 @@ importers:
         version: 22.13.4
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -3529,7 +3529,7 @@ importers:
         version: 22.13.4
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -3560,7 +3560,7 @@ importers:
         version: 8.11.11
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -3585,7 +3585,7 @@ importers:
         version: 22.13.4
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -3610,7 +3610,7 @@ importers:
         version: 22.13.4
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -3635,7 +3635,7 @@ importers:
         version: 22.13.4
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -3666,7 +3666,7 @@ importers:
         version: 8.11.11
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -3694,7 +3694,7 @@ importers:
         version: 16.4.7
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -3719,7 +3719,7 @@ importers:
         version: 22.13.4
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -3747,7 +3747,7 @@ importers:
         version: 22.13.4
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -3772,7 +3772,7 @@ importers:
         version: 22.13.4
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -3797,7 +3797,7 @@ importers:
         version: 22.13.4
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -3819,7 +3819,7 @@ importers:
         version: 22.13.4
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -3844,7 +3844,7 @@ importers:
         version: 8.11.11
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -3869,7 +3869,7 @@ importers:
         version: 22.13.4
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -3891,7 +3891,7 @@ importers:
         version: 22.13.4
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -3913,7 +3913,7 @@ importers:
         version: 22.13.4
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -3938,7 +3938,7 @@ importers:
         version: 22.13.4
       tsup:
         specifier: ^8.0.1
-        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.2)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0)
       typescript:
         specifier: ^5.7.3
         version: 5.7.3
@@ -10941,8 +10941,8 @@ packages:
       zod:
         optional: true
 
-  ai@4.1.44:
-    resolution: {integrity: sha512-2THAHlSdZkRemTu7XinH5wckO3QprrniKg31fczgg4RKvsow0OztsLalwcIGoo69S0WN4BErNKkBisT+wXREZg==}
+  ai@4.1.45:
+    resolution: {integrity: sha512-nQkxQ2zCD+O/h8zJ+PxmBv9coyMaG1uP9kGJvhNaGAA25hbZRQWL0NbTsSJ/QMOUraXKLa+6fBm3VF1NkJK9Kg==}
     engines: {node: '>=18'}
     peerDependencies:
       react: ^18 || ^19 || ^19.0.0-rc
@@ -11468,6 +11468,7 @@ packages:
   bson@6.10.2:
     resolution: {integrity: sha512-5afhLTjqDSA3akH56E+/2J6kTDuSIlBxyXPdQslj9hcIgOUE378xdOfZvC/9q3LifJNI6KR/juZ+d0NRNYBwXg==}
     engines: {node: '>=16.20.1'}
+    deprecated: a critical bug affecting only useBigInt64=true deserialization usage is fixed in bson@6.10.3
 
   buffer-crc32@0.2.13:
     resolution: {integrity: sha512-VO9Ht/+p3SN7SKWqcrgEzjGbRSJYTx+Q1pTQC0wrWqHx0vpJraQ6GtHx8tvcg1rlK1byhU5gccxgOgj7B0TDkQ==}
@@ -15749,6 +15750,7 @@ packages:
 
   libsql@0.4.7:
     resolution: {integrity: sha512-T9eIRCs6b0J1SHKYIvD8+KCJMcWZ900iZyxdnSCdqxN12Z1ijzT+jY5nrk72Jw4B0HGzms2NgpryArlJqvc3Lw==}
+    cpu: [x64, arm64, wasm32]
     os: [darwin, linux, win32]
 
   lie@3.3.0:
@@ -16815,8 +16817,8 @@ packages:
   node-addon-api@7.1.1:
     resolution: {integrity: sha512-5m3bsyrjFWE1xf7nz7YXdN4udnVtXK6/Yfgn5qnahL6bCkf2yKt4k3nuTKAtT4r3IG8JNR2ncsIMdZuAzJjHQQ==}
 
-  node-addon-api@8.3.0:
-    resolution: {integrity: sha512-8VOpLHFrOQlAH+qA0ZzuGRlALRA6/LVh8QJldbrC4DY0hXoMP0l4Acq8TzFC018HztWiRqyCEj2aTWY2UvnJUg==}
+  node-addon-api@8.3.1:
+    resolution: {integrity: sha512-lytcDEdxKjGJPTLEfW4mYMigRezMlyJY8W4wxJK8zE533Jlb8L8dRuObJFWg2P+AuOIxoCgKF+2Oq4d4Zd0OUA==}
     engines: {node: ^18 || ^20 || >= 21}
 
   node-domexception@1.0.0:
@@ -17800,6 +17802,10 @@ packages:
 
   postcss@8.5.2:
     resolution: {integrity: sha512-MjOadfU3Ys9KYoX0AdkBlFEF1Vx37uCCeN4ZHnmwm9FfpbsGWMZeBLMmmpY+6Ocqod7mkdZ0DT31OlbsFrLlkA==}
+    engines: {node: ^10 || ^12 || >=14}
+
+  postcss@8.5.3:
+    resolution: {integrity: sha512-dle9A3yYxlBSrt8Fu+IpjGT8SY8hN0mlaA6GY8t0P5PjIOZemULz/E2Bnm/2dcUOena75OTNkHI76uZBNUUq3A==}
     engines: {node: ^10 || ^12 || >=14}
 
   postgres-array@2.0.0:
@@ -30437,7 +30443,7 @@ snapshots:
       '@vue/shared': 3.5.13
       estree-walker: 2.0.2
       magic-string: 0.30.17
-      postcss: 8.5.2
+      postcss: 8.5.3
       source-map-js: 1.2.1
 
   '@vue/compiler-ssr@3.5.13':
@@ -30693,7 +30699,7 @@ snapshots:
       react: 19.0.0
       zod: 3.24.2
 
-  ai@4.1.44(react@19.0.0)(zod@3.24.2):
+  ai@4.1.45(react@19.0.0)(zod@3.24.2):
     dependencies:
       '@ai-sdk/provider': 1.0.8
       '@ai-sdk/provider-utils': 2.1.9(zod@3.24.2)
@@ -30705,7 +30711,7 @@ snapshots:
       react: 19.0.0
       zod: 3.24.2
 
-  ai@4.1.44(react@19.0.0-rc-45804af1-20241021)(zod@3.24.2):
+  ai@4.1.45(react@19.0.0-rc-45804af1-20241021)(zod@3.24.2):
     dependencies:
       '@ai-sdk/provider': 1.0.8
       '@ai-sdk/provider-utils': 2.1.9(zod@3.24.2)
@@ -30717,7 +30723,7 @@ snapshots:
       react: 19.0.0-rc-45804af1-20241021
       zod: 3.24.2
 
-  ai@4.1.44(react@19.0.0-rc-66855b96-20241106)(zod@3.24.2):
+  ai@4.1.45(react@19.0.0-rc-66855b96-20241106)(zod@3.24.2):
     dependencies:
       '@ai-sdk/provider': 1.0.8
       '@ai-sdk/provider-utils': 2.1.9(zod@3.24.2)
@@ -38732,7 +38738,7 @@ snapshots:
 
   node-addon-api@7.1.1: {}
 
-  node-addon-api@8.3.0: {}
+  node-addon-api@8.3.1: {}
 
   node-domexception@1.0.0: {}
 
@@ -39701,6 +39707,15 @@ snapshots:
       tsx: 4.19.3
       yaml: 2.7.0
 
+  postcss-load-config@6.0.1(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(yaml@2.7.0):
+    dependencies:
+      lilconfig: 3.1.3
+    optionalDependencies:
+      jiti: 2.4.2
+      postcss: 8.5.3
+      tsx: 4.19.3
+      yaml: 2.7.0
+
   postcss-nested@6.2.0(postcss@8.5.2):
     dependencies:
       postcss: 8.5.2
@@ -39732,6 +39747,12 @@ snapshots:
       source-map-js: 1.2.1
 
   postcss@8.5.2:
+    dependencies:
+      nanoid: 3.3.8
+      picocolors: 1.1.1
+      source-map-js: 1.2.1
+
+  postcss@8.5.3:
     dependencies:
       nanoid: 3.3.8
       picocolors: 1.1.1
@@ -40936,11 +40957,11 @@ snapshots:
     optionalDependencies:
       '@babel/code-frame': 7.26.2
 
-  rollup-plugin-esbuild@6.2.0(esbuild@0.24.2)(rollup@4.34.8):
+  rollup-plugin-esbuild@6.2.0(esbuild@0.25.0)(rollup@4.34.8):
     dependencies:
       debug: 4.4.0(supports-color@8.1.1)
       es-module-lexer: 1.6.0
-      esbuild: 0.24.2
+      esbuild: 0.25.0
       get-tsconfig: 4.10.0
       rollup: 4.34.8
       unplugin-utils: 0.2.4
@@ -42271,7 +42292,7 @@ snapshots:
 
   tree-sitter@0.22.4:
     dependencies:
-      node-addon-api: 8.3.0
+      node-addon-api: 8.3.1
       node-gyp-build: 4.8.4
 
   trim-lines@3.0.1: {}
@@ -42459,6 +42480,35 @@ snapshots:
       '@microsoft/api-extractor': 7.50.0(@types/node@22.13.4)
       '@swc/core': 1.10.18(@swc/helpers@0.5.15)
       postcss: 8.5.2
+      typescript: 5.7.3
+    transitivePeerDependencies:
+      - jiti
+      - supports-color
+      - tsx
+      - yaml
+
+  tsup@8.3.6(@microsoft/api-extractor@7.50.0(@types/node@22.13.4))(@swc/core@1.10.18(@swc/helpers@0.5.15))(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.7.3)(yaml@2.7.0):
+    dependencies:
+      bundle-require: 5.1.0(esbuild@0.24.2)
+      cac: 6.7.14
+      chokidar: 4.0.3
+      consola: 3.4.0
+      debug: 4.4.0(supports-color@8.1.1)
+      esbuild: 0.24.2
+      joycon: 3.1.1
+      picocolors: 1.1.1
+      postcss-load-config: 6.0.1(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(yaml@2.7.0)
+      resolve-from: 5.0.0
+      rollup: 4.34.8
+      source-map: 0.8.0-beta.0
+      sucrase: 3.35.0
+      tinyexec: 0.3.2
+      tinyglobby: 0.2.11
+      tree-kill: 1.2.2
+    optionalDependencies:
+      '@microsoft/api-extractor': 7.50.0(@types/node@22.13.4)
+      '@swc/core': 1.10.18(@swc/helpers@0.5.15)
+      postcss: 8.5.3
       typescript: 5.7.3
     transitivePeerDependencies:
       - jiti
